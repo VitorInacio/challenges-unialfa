@@ -6,7 +6,7 @@
     1. Dentro do header deve-se ter uma logo e um nav com alguns links de exemplo.
 
     2. Estilize com o CSS o HEADER
-    
+
     3. Dentro do MAIN pratique as tags principais:
         1. IMG
         2. P
@@ -31,29 +31,57 @@
 </details>
 <br>
 
-3. Realizar o download do projeto no link a seguir: https://github.com/alexmpereira/projeto-1periodo-ex3
+<details>
+    <summary>Exercício 03</summary>
+    Realizar o download do projeto no link a seguir: https://github.com/alexmpereira/projeto-1periodo-ex3
+
     1. No Header, adicionar a cor de fundo #FFCB00 e uma. sombra na parte de baixo com o valor 0 0 20px #333;
+
     2. Nos links do Menu, ao passar o mouse a cor deve mudar para #F00
+
     3. Import no head do html uma fonte do site da google fontes (pode ser a fonte Raleway por exemplo) e inclua no CSS para que ela carregue primeiro como fonte principal
+
     4. Dentro da div que contém a classe container, adicionar um titulo: Veículos em Destaque
+
     5. Duplique o trecho de grid para ter 3 colunas
+
     6. Ajuste no CSS para que as colunas fiquem uma ao lado da outra
+
     7. Em cada coluna na tag img, preencha adicionando a imagem de carros que ficam no diretório imagens
+
     8. Abaixo da tag img de cada coluna, inclua uma tag strong passando o nome do carro como descricao.
+
     9. No botao de detalhes, adicione um link para redirecionar para a página de cada carro
+
     10. A cor do botao de detalhes deve ser #FFCB00
+
     11. Por volta de cada coluna, para ficar mais elegante, adicione um sombra com o CSS, usando de valor da propriedade: 0 0 20px #999
+
     12. Crie arquivos HTML com detalhes de cada carro de acordo com os links adicionados no botao Detalhe.
+
     13. No Menu Contato, carregue o bootstrap e escreva um formulário contendo os seguintes campos: Nome, Email, Telefone, Idade
+
     14. No Menu de Carros escreva uma página que liste todos os carros do diretório imagens
+
     15. No Menu de Sobre tente escrever uma página elegante usando divs, h1, listagens e paragrafos
+
     16. Desenvolva um Footer para o final de cada página, incluindo o seu nome
-4. Implemente as Tags: 
+</details>
+<br>
+
+<details>
+    <summary>Exercício 04</summary>
+    #### Seguindo o exemplo abaixo:
+    ![Imagem do exemplo](../imagens/nivel_01/desafio_html.png)
+
+    #### Implemente as Tags:
+
     ```` HTML
     <ul></ul>, <ol></ol>, <li></li>, <dt></dt>, <dd></dd>
     ````
-    de acordo com o exemplo abaixo:
-    ![Imagem do exemplo](../imagens/nivel_01/desafio_html.png)
+</details>
+<br>
+
 5. Desenvolva o HTML e CSS do layout abaixo:
     ![Layout Exercicio 05](../imagens/nivel_01/ex05_layout.png)
 6. Desenvolver uma página HTML igual ao formulário abaixo, usando bootstrap:
