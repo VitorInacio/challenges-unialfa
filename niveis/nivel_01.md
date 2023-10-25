@@ -1,10 +1,12 @@
-# ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "")  <span style="color:orange">Lista de exercícios nível 01</span>
-<details style="border: 1px solid #aaa;border-radius: 4px;padding: 0.5em 0.5em 0;">
+# ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "")  Lista de exercícios nível 01
+<details>
     <summary>Exercício 01</summary>
-    <span style="color:orange">Escreva um HTML contendo um HEADER, MAIN.</span>
+    Escreva um HTML contendo um HEADER, MAIN.
 
     1. Dentro do header deve-se ter uma logo e um nav com alguns links de exemplo.
+
     2. Estilize com o CSS o HEADER
+    
     3. Dentro do MAIN pratique as tags principais:
         1. IMG
         2. P
@@ -13,12 +15,22 @@
 </details>
 <br>
 
-2. Realizar o download do projeto no link a seguir: https://github.com/alexmpereira/projeto-1periodo
+<details>
+    <summary>Exercício 02</summary>
+    Realizar o download do projeto no link a seguir: https://github.com/alexmpereira/projeto-1periodo.
+
     1. No Header é necessário ajustar para ter a cor de fundo #103FA7, espacamento com padding de 10px e a largura 100%
+
     2. Os links da navegacao nao estao redirecionando para as suas paginas, configure-as para redirecionar de acordo com o texto de cada menu, por exemplo Quem Somos para o arquivo quem-somos.html
+
     3. No index.html existe uma lista de filmes, deve ser listado em colunas contendo no máximo 4 colunas
+
     4. Ainda no arquivo index, dentro das colunas existe um botao de Detalhes, as bordas desse botao de ter um arredondamento de 100%
+
     5. No index quando clicamos no Botao Detalhes é redirecionado para o arquivo filme.html. Crie arquivos com a mesma. estrutura do filme.html de acordo com os filmes listados das colunas.
+</details>
+<br>
+
 3. Realizar o download do projeto no link a seguir: https://github.com/alexmpereira/projeto-1periodo-ex3
     1. No Header, adicionar a cor de fundo #FFCB00 e uma. sombra na parte de baixo com o valor 0 0 20px #333;
     2. Nos links do Menu, ao passar o mouse a cor deve mudar para #F00
