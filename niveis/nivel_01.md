@@ -72,6 +72,7 @@
 <details>
     <summary>Exercício 04</summary>
     #### Seguindo o exemplo abaixo:
+
     ![Imagem do exemplo](../imagens/nivel_01/desafio_html.png)
 
     #### Implemente as Tags:
